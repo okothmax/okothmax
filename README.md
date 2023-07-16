@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student studying Software Engineering at ALX<br>👯 I’m looking to collaborate on Enterprise Software in Fintech<br>💬 Ask me anything about SWE<br>⚡ I'm a gamer; God of War 
+🔭 I’m a Software Engineering<br>👯 I’m looking to collaborate on Enterprise Software in Fintech<br>💬 Ask me anything about SWE<br>⚡ I'm a gamer; God of War 
 
 
 ## 🌐 Socials:
