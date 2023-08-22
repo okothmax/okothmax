@@ -1,5 +1,5 @@
-<h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, I'm Emediong &ldquo;Bendito&rdquo; Francis. 😁</h1>
-<h2 align="center">A dauntless Software Engineer. 💻</h2>
+<h1 align="center"><img width="50px" height="50px" src="https://c.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif"/>Hey there, I'm Okoth &ldquo;Maxwell&rdquo; O'rain. 😁</h1>
+<h2 align="center">I make it rain code. 💻</h2>
 <center><img src="https://github.com/okothmax/okothmax/blob/main/giphy.gif"/></center>
 
 
