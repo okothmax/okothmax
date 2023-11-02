@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m a Software Engineer | BI Developer | Analyst<br>👯 I’m looking to collaborate on Enterprise Software<br>💬 Ask me anything about SWE<br>⚡ I'm a gamer; God of War 
+🔭 I’m a Software Engineer | Solutions architect | BI Developer | Data Analyst<br>👯 I’m looking to collaborate on Enterprise Software<br>💬 Ask me anything about SWE<br>⚡ I'm a gamer; God of War 
 
 
 ## 🌐 Socials:
