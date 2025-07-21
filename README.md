@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" height="300px" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Maxwell%20Otieno&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Cloud%20Architect%20|%20DevOps%20Engineer%20|%20AI%20&%20Software%20Engineer&descAlignY=60&descAlign=50"/>
+  <img width="100%" height="300px" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Maxwell%20Otieno&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=AI%20&%20Software%20Engineer%20|%20Data%20Analytics%20Specialist&descAlignY=60&descAlign=50"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Cloud+Solutions+Architect;DevOps+%26+AI+Engineer;Data+Analytics+Specialist;Full-Stack+Developer;Security+%26+MLOps+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=AI+%26+Software+Engineer;Data+Analytics+Specialist;Full-Stack+Developer;Cloud+Solutions+Architect;Machine+Learning+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
